@@ -1,16 +1,13 @@
-### Hi there 👋
+Здравствуйте! Меня зовут Даниил и я занимаюсь разработкой программного обеспечения на C++.
 
-<!--
-**bambrat/bambrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Прохожу курс "Разработчик C++" Яндекс.Практикума, и готов участвовать в создании проектов.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои навыки:
+| **Languages** | **Programming**  |   **Tools**   |    **DevOps**        | **Database**    | **Other**       |
+|---------------|------------------|---------------|----------------------|-----------------|-----------------|
+| C++ 17        | Algorithms       | STL           | Docker               | MySQL           | Photoshop       |
+| Python        | Debugging        | Pandas        | Yandex Cloud         | Yandex Database | Blender 3d      |
+| PHP           | Unit testing     | Numpy         | CLI Yandex Cloud     |                 | Unity 3d        |
+|               | OOP              | re            |                      |                 | Unreal Engine   |
+|               | RAII             | json          |                      |                 | GIMP            |
+|               | Sanitizers       | discord.py    |                      |                 | Corel           |
